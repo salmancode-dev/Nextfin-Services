@@ -6,8 +6,9 @@ A modern and responsive multi-page business website built using **HTML, CSS, and
 
 Add your Netlify link here:
 
-```text
-https://your-site.netlify.app
+```
+https://nextfinservices.netlify.app/
+
 ```
 
 ## 📂 GitHub Repository
@@ -15,7 +16,7 @@ https://your-site.netlify.app
 Add your GitHub repository link here:
 
 ```text
-https://github.com/your-username/your-repository
+https://github.com/salmancode-dev/Nextfin-Services
 ```
 
 ---
@@ -98,24 +99,7 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 Open `src/index.html` in your browser or use a Live Server extension.
 
----
 
-## 📸 Screenshots
-
-You can add screenshots inside a folder named:
-
-```text
-screenshots/
-```
-
-Example:
-
-* Home Page
-* About Page
-* Services Page
-* Contact Page
-
----
 
 ## 🎯 Future Improvements
 
@@ -134,9 +118,9 @@ Example:
 
 Frontend Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/salmancode-dev
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/salman-imran-1818sz
 
 ---
 
